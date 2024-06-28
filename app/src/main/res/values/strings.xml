@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">shopping</string>
+    <string name="textview">Every Collection Brand that you need in here</string>
+    <string name="sub_title">Zara is a fast-fashion retail subsidiary of the Spanish multinational fashion design, manufacturing</string>
+    <string name="button_text">Order Now</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wallet">10.50 ETH</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View all</string>
+</resources>
